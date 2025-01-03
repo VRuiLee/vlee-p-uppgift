@@ -1,0 +1,17 @@
+Byteatern
+75 platser
+125 kr vuxen
+75 kr pensionär
+40 kr barn
+
+Dramaten
+180 platser
+165 kr vuxen
+100 kr pensionär
+50 kr barn
+
+Stadsteatern
+240 platser
+195 kr vuxen
+150 kr pensionär
+90 kr barn
